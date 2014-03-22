@@ -1,1 +1,1 @@
-A Ruby on Rails Web Application that provides Bills fans with all the latest news and Rumors
+A Ruby on Rails Web Application that provides Bills fans with all the latest news and Rumors.
